@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# DataPilot AI
 
-# Run and deploy your AI Studio app
+DataPilot AI is an AI-powered Dataset Analyzer and Decision Support Platform.
 
-This contains everything you need to run your app locally.
+It allows users to upload datasets, analyze data, visualize results, run Data Structures and Algorithms, generate AI insights, interact with datasets through an AI chat interface, and generate reports.
 
-View your app in AI Studio: https://ai.studio/apps/247bd3ae-2dfc-4f88-a7d4-70c00ebfec22
+## Features
 
-## Run Locally
+- Dataset upload and preview
+- Dataset analysis
+- Data quality analysis
+- AI-generated insights
+- Data visualization
+- AI Chat
+- DSA Engine
+- Searching and sorting algorithms
+- Arrays, linked lists, stacks, queues, trees, graphs, heaps and hash tables
+- Anomaly detection
+- Report generation
+- Dashboard and dataset management
 
-**Prerequisites:**  Node.js
+## Technology Stack
 
+Frontend:
+- React
+- TypeScript
+- Vite
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Backend:
+- Python
+- FastAPI
+
+Database:
+- SQLite
+
+AI:
+- Google Gemini
+

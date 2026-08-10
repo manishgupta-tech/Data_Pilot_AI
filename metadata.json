@@ -1,0 +1,6 @@
+{
+  "name": "DataPilot AI",
+  "description": "AI-powered dataset analyzer and decision support platform that turns your data into intelligent decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
